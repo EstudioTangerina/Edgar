@@ -1,0 +1,11 @@
+agachando = 23
+andando = 16, 17, 18, 19, 16, 17, 18, 19...
+atacando= primeira vez apertando o botão(5, 6, 7) e segundo vez apertando o botão(8, 9, 10)
+caindo= 22
+defendendo= 11, 12, 13, 14
+desfazendo o escudo= 14, 13, 12, 11
+escudando quebrando= 15
+parado= 1, 2, 3, 1, 2, 3
+pulando= 21
+dano= 24, 0, 24 (pisca)
+morte= 25

@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 17a83d83867f34340b8b17a6f9a68262
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atk + idle_0
+    21300002: atk + idle_1
+    21300004: atk + idle_2
+    21300006: atk + idle_3
+    21300008: atk + idle_4
+    21300010: atk + idle_5
+    21300012: atk + idle_6
+    21300014: atk + idle_7
+    21300016: atk + idle_8
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atk + idle_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1030
+        width: 150
+        height: 190
+      alignment: 9
+      pivot: {x: 0.33735484, y: 0.023070646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218330e0441cc31499cdd3e1276e13b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk + idle_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1030
+        width: 150
+        height: 190
+      alignment: 9
+      pivot: {x: 0.33735454, y: 0.022469932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee61eb1967156248aa2051c53d84f50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk + idle_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1030
+        width: 150
+        height: 170
+      alignment: 9
+      pivot: {x: 0.33735514, y: 0.022196691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646910145c675440a8d953fff218f90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk + idle_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 710
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: 0.3379418, y: 0.022025893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794fe7ae7ffb8cd46972e80af984dae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk + idle_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 710
+        width: 150
+        height: 190
+      alignment: 9
+      pivot: {x: 0.33806804, y: 0.02224892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3764429f070dfd844a733df987257a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk + idle_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 390
+        width: 110
+        height: 250
+      alignment: 9
+      pivot: {x: 0.33735517, y: 0.017010132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743ead682bc8f5c45b84da9a898a73a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk + idle_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 380
+        width: 270
+        height: 220
+      alignment: 9
+      pivot: {x: 0.33735517, y: 0.06793158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18275456e87f2184dafe5d8aff32a907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk + idle_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 390
+        width: 190
+        height: 180
+      alignment: 9
+      pivot: {x: 0.10956807, y: 0.02242279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5f45166f1bd9c4e86f42ed71a8d01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk + idle_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 200
+        height: 170
+      alignment: 9
+      pivot: {x: 0.100412905, y: 0.038748574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af99d30f0403764780cea63e118c9ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 62b4a01f8e82a1647b27f65c4f6b6d26
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
