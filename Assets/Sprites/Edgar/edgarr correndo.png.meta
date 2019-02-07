@@ -7,7 +7,7 @@ TextureImporter:
     21300004: edgarr correndo_2
     21300006: edgarr correndo_3
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -96,7 +96,7 @@ TextureImporter:
         width: 130
         height: 180
       alignment: 9
-      pivot: {x: 0.48214626, y: 0.16670889}
+      pivot: {x: 0.53, y: 0.082588024}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -116,7 +116,7 @@ TextureImporter:
         width: 140
         height: 190
       alignment: 9
-      pivot: {x: 0.51686335, y: 0.1663648}
+      pivot: {x: 0.51, y: 0.016875578}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -136,7 +136,7 @@ TextureImporter:
         width: 120
         height: 170
       alignment: 9
-      pivot: {x: 0.47972667, y: 0.16090097}
+      pivot: {x: 0.53, y: 0.031348553}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -156,7 +156,7 @@ TextureImporter:
         width: 140
         height: 190
       alignment: 9
-      pivot: {x: 0.49561006, y: 0.16610537}
+      pivot: {x: 0.51, y: 0.019187868}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
