@@ -1,9 +1,166 @@
 fileFormatVersion: 2
 guid: 9acddb740ff91f348b40f1f970b9cd71
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: edgar tiles (1)_0
+    21300002: edgar tiles (1)_1
+    21300004: edgar tiles (1)_2
+    21300006: edgar tiles (1)_3
+    21300008: edgar tiles (1)_4
+    21300010: edgar tiles (1)_5
+    21300012: edgar tiles (1)_6
+    21300014: edgar tiles (1)_7
+    21300016: edgar tiles (1)_8
+    21300018: edgar tiles (1)_9
+    21300020: edgar tiles (1)_10
+    21300022: edgar tiles (1)_11
+    21300024: edgar tiles (1)_12
+    21300026: edgar tiles (1)_13
+    21300028: edgar tiles (1)_14
+    21300030: edgar tiles (1)_15
+    21300032: edgar tiles (1)_16
+    21300034: edgar tiles (1)_17
+    21300036: edgar tiles (1)_18
+    21300038: edgar tiles (1)_19
+    21300040: edgar tiles (1)_20
+    21300042: edgar tiles (1)_21
+    21300044: edgar tiles (1)_22
+    21300046: edgar tiles (1)_23
+    21300048: edgar tiles (1)_24
+    21300050: edgar tiles (1)_25
+    21300052: edgar tiles (1)_26
+    21300054: edgar tiles (1)_27
+    21300056: edgar tiles (1)_28
+    21300058: edgar tiles (1)_29
+    21300060: edgar tiles (1)_30
+    21300062: edgar tiles (1)_31
+    21300064: edgar tiles (1)_32
+    21300066: edgar tiles (1)_33
+    21300068: edgar tiles (1)_34
+    21300070: edgar tiles (1)_35
+    21300072: edgar tiles (1)_36
+    21300074: edgar tiles (1)_37
+    21300076: edgar tiles (1)_38
+    21300078: edgar tiles (1)_39
+    21300080: edgar tiles (1)_40
+    21300082: edgar tiles (1)_41
+    21300084: edgar tiles (1)_42
+    21300086: edgar tiles (1)_43
+    21300088: edgar tiles (1)_44
+    21300090: edgar tiles (1)_45
+    21300092: edgar tiles (1)_46
+    21300094: edgar tiles (1)_47
+    21300096: edgar tiles (1)_48
+    21300098: edgar tiles (1)_49
+    21300100: edgar tiles (1)_50
+    21300102: edgar tiles (1)_51
+    21300104: edgar tiles (1)_52
+    21300106: edgar tiles (1)_53
+    21300108: edgar tiles (1)_54
+    21300110: edgar tiles (1)_55
+    21300112: edgar tiles (1)_56
+    21300114: edgar tiles (1)_57
+    21300116: edgar tiles (1)_58
+    21300118: edgar tiles (1)_59
+    21300120: edgar tiles (1)_60
+    21300122: edgar tiles (1)_61
+    21300124: edgar tiles (1)_62
+    21300126: edgar tiles (1)_63
+    21300128: edgar tiles (1)_64
+    21300130: edgar tiles (1)_65
+    21300132: edgar tiles (1)_66
+    21300134: edgar tiles (1)_67
+    21300136: edgar tiles (1)_68
+    21300138: edgar tiles (1)_69
+    21300140: edgar tiles (1)_70
+    21300142: edgar tiles (1)_71
+    21300144: edgar tiles (1)_72
+    21300146: edgar tiles (1)_73
+    21300148: edgar tiles (1)_74
+    21300150: edgar tiles (1)_75
+    21300152: edgar tiles (1)_76
+    21300154: edgar tiles (1)_77
+    21300156: edgar tiles (1)_78
+    21300158: edgar tiles (1)_79
+    21300160: edgar tiles (1)_80
+    21300162: edgar tiles (1)_81
+    21300164: edgar tiles (1)_82
+    21300166: edgar tiles (1)_83
+    21300168: edgar tiles (1)_84
+    21300170: edgar tiles (1)_85
+    21300172: edgar tiles (1)_86
+    21300174: edgar tiles (1)_87
+    21300176: edgar tiles (1)_88
+    21300178: edgar tiles (1)_89
+    21300180: edgar tiles (1)_90
+    21300182: edgar tiles (1)_91
+    21300184: edgar tiles (1)_92
+    21300186: edgar tiles (1)_93
+    21300188: edgar tiles (1)_94
+    21300190: edgar tiles (1)_95
+    21300192: edgar tiles (1)_96
+    21300194: edgar tiles (1)_97
+    21300196: edgar tiles (1)_98
+    21300198: edgar tiles (1)_99
+    21300200: edgar tiles (1)_100
+    21300202: edgar tiles (1)_101
+    21300204: edgar tiles (1)_102
+    21300206: edgar tiles (1)_103
+    21300208: edgar tiles (1)_104
+    21300210: edgar tiles (1)_105
+    21300212: edgar tiles (1)_106
+    21300214: edgar tiles (1)_107
+    21300216: edgar tiles (1)_108
+    21300218: edgar tiles (1)_109
+    21300220: edgar tiles (1)_110
+    21300222: edgar tiles (1)_111
+    21300224: edgar tiles (1)_112
+    21300226: edgar tiles (1)_113
+    21300228: edgar tiles (1)_114
+    21300230: edgar tiles (1)_115
+    21300232: edgar tiles (1)_116
+    21300234: edgar tiles (1)_117
+    21300236: edgar tiles (1)_118
+    21300238: edgar tiles (1)_119
+    21300240: edgar tiles (1)_120
+    21300242: edgar tiles (1)_121
+    21300244: edgar tiles (1)_122
+    21300246: edgar tiles (1)_123
+    21300248: edgar tiles (1)_124
+    21300250: edgar tiles (1)_125
+    21300252: edgar tiles (1)_126
+    21300254: edgar tiles (1)_127
+    21300256: edgar tiles (1)_128
+    21300258: edgar tiles (1)_129
+    21300260: edgar tiles (1)_130
+    21300262: edgar tiles (1)_131
+    21300264: edgar tiles (1)_132
+    21300266: edgar tiles (1)_133
+    21300268: edgar tiles (1)_134
+    21300270: edgar tiles (1)_135
+    21300272: edgar tiles (1)_136
+    21300274: edgar tiles (1)_137
+    21300276: edgar tiles (1)_138
+    21300278: edgar tiles (1)_139
+    21300280: edgar tiles (1)_140
+    21300282: edgar tiles (1)_141
+    21300284: edgar tiles (1)_142
+    21300286: edgar tiles (1)_143
+    21300288: edgar tiles (1)_144
+    21300290: edgar tiles (1)_145
+    21300292: edgar tiles (1)_146
+    21300294: edgar tiles (1)_147
+    21300296: edgar tiles (1)_148
+    21300298: edgar tiles (1)_149
+    21300300: edgar tiles (1)_150
+    21300302: edgar tiles (1)_151
+    21300304: edgar tiles (1)_152
+    21300306: edgar tiles (1)_153
+    21300308: edgar tiles (1)_154
+    21300310: edgar tiles (1)_155
+    21300312: edgar tiles (1)_156
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -31,7 +188,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,7 +197,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +226,3160 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: edgar tiles (1)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3869
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5510218f23e3f48b7d295c4991cd7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_1
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3758
+        width: 74
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d576e9fb064fb54c8dc2378873b3434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 3908
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863565a535b1df04fa88d6e794cf409f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3908
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc475d0d2d9d9394fa526abfb196a615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3908
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e86529c0cc3d438d6268e83cc7d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 3598
+        width: 402
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98d2d8d65cfbbb46ae5decc2875ccf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3768
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413cb63dcb3a31846b2bf641fdf43881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3768
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f8c34d79886a4c8e970961b188e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3768
+        width: 52
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718357a716000c3489670672799527be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3768
+        width: 53
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a983cf687eb23b42825698e691245ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3768
+        width: 54
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81f759dfefb17f4f8aed381d37c74a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_11
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3768
+        width: 164
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b86c56cc827d442aa5576e11378ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_12
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3768
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3862ede64f88d40bc11f03211fb620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3768
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5500fbf3ae64cc549a89e1147cff7405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 3809
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c995ca7b05cd4788031c89021ba77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3809
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8cc6f3c56e6c4eb8785b14915a4f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3809
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268069d7e2c3c824d8c8561151c25b1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 3809
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696a67c03811d5943aea293ce253b274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3809
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4e78bfa5278814babdc996584d800f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3809
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc3750ce4642247a517640319dea78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 3279
+        width: 232
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6ad6417b7d6147839ecf747d2de36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3668
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a764964d9bb64582dee4977f1d121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_22
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 3658
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81f35c404ee0a4da7ca1b8ae9e1e4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3658
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ececceb7873750a4a8ca58d71f5ff689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_24
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3658
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba5be551bce4004ca045bac7173ba18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 3719
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad18d094e70b9f741a6bb2f6b8198ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3719
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31059cc3fba6b1c4db0a880ea114730a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3719
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fe0c08a82544e4fb61f72c42e9345c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 3719
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d6b8be9b34e241bc9c35031875ccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_29
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3719
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970d66550358ca42aff22dac777509b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_30
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3719
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0451835466964d83ab830dbf1e035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 3629
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0a8b5234a8e674ab94d9cd2e134955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3629
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680c52a0fe31c8a4a80550f776a29ba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 3629
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fba1dc42f75ed54a86d5d659b90e477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 3629
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34942c40130c51842857879aa3ddbdda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_35
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3629
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cbf7fa584b9124c9d6fd76a9eb549b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_36
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 3629
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4ff9bd178acf4a9f78fd355a704b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_37
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3299
+        width: 102
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3faa69395a8fd94387e882660ceaf33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_38
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3209
+        width: 184
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e538adecb75334a82acfd06e709345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_39
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2898
+        width: 263
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c99fe1b3c13b5041860032a42557abc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_40
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2898
+        width: 193
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4282dea0439a2304fb79e6f61db156bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_41
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2898
+        width: 163
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653445f10f9eabd4692dd64529920055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_42
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2809
+        width: 223
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c2e39a889eb1b4491def81d5330a06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 3068
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f550561d3b9a63c48a5e3dcc75a74c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 2869
+        width: 192
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222191c5037ab694e8f69fd339a7e863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2889
+        width: 264
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de05a8ae49da9448c2213b1fe7925c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 2898
+        width: 192
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd08b0fe4122d74e86e2f42cf07db42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_47
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2898
+        width: 283
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eaf1ab07bfe004ea700c1d1b703807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2979
+        width: 123
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fee588b4be094fb9eb519e1cf2281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2498
+        width: 502
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0228bef287b2d104eaf34cd49cc69cb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_50
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2498
+        width: 104
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0eb4edf53ec454d8241730250d3b9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_51
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2498
+        width: 102
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e09c0639bea6a84daa314ef9530f84a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_52
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 2508
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7872480685afed47b39f1b518ef28f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_53
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 2508
+        width: 294
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cc8587082a16448f65e76ba87444a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_54
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 2508
+        width: 53
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa17ae51fe5ec1143ae94c7192b8ca19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2279
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad60a79a16a469469f774ce1950290e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_56
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd4def5aff5f9a4a83c0b257e5f188b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_57
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1002371164deb544d8f1b40ff6e7f931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_58
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7232c094fabcdff4384479f3ef43fb43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938be9a55ae66a4b9f2e2f572dc76a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da59c2aac1838141a10053ab982ec7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae409898f01c9e044941160111334023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a6fc5c27a3d64d9d58ed84097aba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_63
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2209
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deb90c026828044b9edeb3a1bb1c7ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_64
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 2209
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe2fcd5265312b4f86825c4feaa2be5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_65
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2209
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a761e9e31e184380d69d562d7c6c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_66
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 2209
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11f174af2b1fe4cbb4513fb9b2e079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_67
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2209
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42054558d10a30d488729da7ba5d4933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_68
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2209
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f75acd276af074097fd52aa0ba64b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_69
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f139a4a75244ba646826fb083577e492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_70
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b297cca4c321ecc429e950ae8a231e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_71
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2209
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24709c7cf1f1a44da6fffc7bde59acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_72
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2168
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47316c376f34b44cb97c38fd8273128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c01b8333df8c374983f7bce8e1d3cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_74
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb365f4d05ec1f4189a4fe7859dd89c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_75
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ca7ee932c6134a882c3d8e8967d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_76
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0978b859ec4fd4341b7360e543b48d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_77
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171a3f6f597cbf34a9102e53a1ed586e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_78
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f77deb7d3b5f478a563dee989cdbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_79
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2119
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2daf8fc95c5a1949814695a52782ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_80
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 2119
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d388e70c3dc64abc72c1274b4a418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_81
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2119
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a3a4ea2090c9c4797f9b7f7a4cb6ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_82
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2119
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884db1fcc66421647bcadc952684257d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_83
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2119
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486bc18f6b7ec441b11d58c6f01484b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_84
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2119
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999dfb33fb7bd974980eabf7d02e4ede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_85
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a4baf61eccf740b13293614035820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_86
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e53eb18b5c8a184aa082fc6febd7aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_87
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2119
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d7cd9a1fc6a7d44919ee8547afe675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_88
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2029
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d6db362aa76440ba98d9d16d4940a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_89
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2029
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99d8c62ff0fad4e9945fc2e3d1bb4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_90
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2029
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c3910bad132e4499c14679fc61461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_91
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abadb101a68c89c409bffab2fc192330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_92
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3e3745bc7bd144a8a3ca4237cabc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_93
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc834f70d0214dc4e865bb7d581d658b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_94
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac6fedf45d8e54da63552b6dcd625c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_95
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae4408776205834fb4997e3589d3c70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_96
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89a3a5e3cfa2e34eba821a1cce4d2b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_97
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2029
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b560e3851d94b4d4ebe99dc3877e2754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_98
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 2029
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed454622c742ea242a7c5337c43a37b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_99
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 2029
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705338aa8f6b16c48b03aa93d3fa781f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_100
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2029
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607de4068ab15874eb1886dad5816ce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_101
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2029
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c780f4c047871124bb63858b75ca3be9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_102
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2029
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84289b8a4ee09a4d84c77eb0268f72e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_103
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed141d5afa39fe459bb8f394d3bf26d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_104
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab34d37a4270ae04082f4d04adf1f5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_105
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 2029
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3790c8b003fc642afd1c3732e9840e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1449
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adda88673ca2e46ab4b0ff2882969f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_107
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1449
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c270ff7060a4b42a853b736a8b32f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_108
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1449
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292cad274a28d9469efc79f71927af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_109
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1449
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0237d4f368d2c4b8357db569aef166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_110
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1449
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5520acbe7389444ba49edb3a91876e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_111
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1449
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31926d36acbac7944958fca243c5d15e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_112
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1449
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886863a9b0ea73741a2468b189116356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_113
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1449
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c57b20b8fbfc44cab4462431c39a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_114
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1449
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc0d79723878a419697a516f6db8cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_115
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1449
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc5c7a51ae174a498c306d3cd025ebe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_116
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1449
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78116cca7f0ffe1438014cd0458d6553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_117
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1449
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cb82ed26cfcff449524e6f4cc9069e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_118
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1449
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f0bb2195dff046b65852ab0f3a33e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_119
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1449
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4fa0feb5834c48ac631aa0233b5fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_120
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1318
+        width: 183
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37477c3282ff4204bbfb4d8c4cec88ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_121
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 1479
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390b87eb058ab854f9886c3f5ccca056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_122
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 1018
+        width: 514
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd47f58613de8684bbdc78b00e9ccca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_123
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1348
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ffa9951df773f498e186477259cb02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_124
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1348
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd9c3186e04eb54bb6d893e22dcfa00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_125
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1348
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f315dbcde022b0146a603f88e6153edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_126
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1348
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eabc7d2b2380449bfa662508658547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_127
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1348
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8690ca7d7e09744adbe2f0edfe682c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_128
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1348
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fcfb3eabf3823418e0bc49b0bc9a90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_129
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1348
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5187c5316f2eb34cb2efb7a930278f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_130
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1348
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9592ef5f74e613e4880bfd94ab09586e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_131
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1348
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d565cda85b047604594cf1b4f381005e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_132
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1348
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee6df00141ea649bd7789f3f437e00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_133
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1348
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca218c9522e1b9a48b30ceb5fc9eb71d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_134
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1348
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45d8b0bb7d180e4089affb51c7e8937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_135
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1318
+        width: 183
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c63d237ddd9be4ea3bb9d19b437083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_136
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1318
+        width: 162
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266153fcc36bc0c4c9f889f8e512ecea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_137
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1318
+        width: 183
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac083a5b48c0b4643b738a0c6ae7bd7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_138
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1248
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda7b0f267e4d246ba4fd2f15a44d73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1248
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61bba07b5346f74bbcfb0b93a98466b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_140
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1248
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31290894b0308743aa56846155960b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_141
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1248
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c9f354804b9bb4cad83379c6f240c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1248
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4007986fe74f554449cf2df51a21048c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_143
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1248
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc937fe9e0939e74b910db569fbd78cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_144
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1248
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0c8e52aa89b274595c161af5e15aa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_145
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1248
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92bca5f04c19441954bee1f4be1170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_146
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1248
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f076f231e2d954997f3d009a703045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_147
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1248
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a5162583667db429f6993270edcd74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_148
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1248
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96058d41ee59f4fb157b608bfff6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_149
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1248
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcee5e8501d39e49ba0654f1751105c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_150
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 688
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c6bcbb0a309342850e3be9743db7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_151
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 578
+        width: 233
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b2428850f24d64bafb4f3395bb00b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_152
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 359
+        width: 203
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65a6606a0e5704b928beaaf5132f8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_153
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 359
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db58c7a7f2dae4bba560b25de6d433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_154
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 398
+        width: 182
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708ae3494ce41a340b981054f80b5bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_155
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 398
+        width: 162
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6770803648964fa0a6da960fac888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: edgar tiles (1)_156
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 129
+        width: 493
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cedc08023af6724d8d2f99a10459238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
