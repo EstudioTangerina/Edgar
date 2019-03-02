@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ActionMinotauro : MonoBehaviour
 {
+    float direçãoX;
     [SerializeField]
     private Rigidbody2D Minotaurorb;
     private Animator anim;
@@ -58,5 +59,4 @@ public class ActionMinotauro : MonoBehaviour
         yield return new WaitForSeconds(2.0f);
         StartCoroutine(AtaqueOsso());
     }
-
-}
+    }
