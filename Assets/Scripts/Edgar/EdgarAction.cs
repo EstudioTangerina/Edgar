@@ -9,23 +9,33 @@ public class EdgarAction : MonoBehaviour
     private float horizontalspeed;
     private Animator anim;
     bool andar;
+    private bool isGrounded = true;
+    public float jumpSpeed = 5.5f;
+    private int timeJump;
+    public bool Dormindo;
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         speed = 4.5f;
+        Dormindo = false;
     }
 
     // Update is called once per frame
     void Update()
     {
-      
+
     }
     void FixedUpdate()
     {
         Walk();
         Ataques();
+        Jump();
+        Sleep();
+        if (isGrounded == false) anim.SetBool("Pulo", true);
+        else anim.SetBool("Pulo", false);
+        anim.SetFloat("Blend", rb.velocity.y);
     }
     void Walk()
     {
@@ -43,14 +53,6 @@ public class EdgarAction : MonoBehaviour
             transform.eulerAngles = new Vector2(0, 0);
         }
 
-
-        /*if (Input.GetKeyDown(KeyCode.UpArrow) && timeJump < 2 || Input.GetKeyDown(KeyCode.W) && timeJump < 2)
-        {
-            rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
-            timeJump++;
-            isGrounded = false;
-        }*/
-
     }
     void Ataques()
     {
@@ -61,6 +63,31 @@ public class EdgarAction : MonoBehaviour
         else
         {
             anim.SetBool("Ataque", false);
+        }
+    }
+    void Jump()
+    {
+
+        if (Input.GetKeyDown(KeyCode.UpArrow) && timeJump < 2 || Input.GetKeyDown(KeyCode.W) && timeJump < 2)
+        {
+            rb.velocity = new Vector2(rb.velocity.x, jumpSpeed);
+            timeJump++;
+            isGrounded = false;
+        }
+    }
+    void Sleep()
+    {
+        if(Dormindo == false)
+        {
+            anim.SetBool("Dormindo", true);
+        }
+    }
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.tag == "Chao")
+        {
+            timeJump = 0;
+            isGrounded = true;
         }
     }
 }

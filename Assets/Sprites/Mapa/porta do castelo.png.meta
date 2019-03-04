@@ -1,7 +1,9 @@
 fileFormatVersion: 2
 guid: 85252de85529b9a47856e06805524ba6
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: porta do castelo_0
+    21300002: porta do castelo_1
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -82,7 +84,47 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: porta do castelo_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 410
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbdd5e788f944d44ae013c76416d3fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porta do castelo_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 280
+        width: 410
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e945a36506d8746a0288b85e47ccec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

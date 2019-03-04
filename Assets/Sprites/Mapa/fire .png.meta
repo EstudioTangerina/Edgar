@@ -94,8 +94,8 @@ TextureImporter:
         y: 430
         width: 130
         height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.34627733}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -110,12 +110,12 @@ TextureImporter:
       name: fire _3
       rect:
         serializedVersion: 2
-        x: 540
+        x: 539
         y: 430
         width: 130
         height: 270
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5066636, y: 0.33272547}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -134,8 +134,8 @@ TextureImporter:
         y: 30
         width: 90
         height: 230
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.49788988, y: 0.39135328}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
