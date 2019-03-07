@@ -18,16 +18,15 @@ public class Dialogo : MonoBehaviour
 
     public bool EleAcordou = false;
 
-    public bool Dormiu;
-    public EdgarAction EdgarUp;
+    public GameObject EdgarUp;
+    public GameObject Texto;
     public Animator anim;
     // Use this for initialization
     void Start()
     {
         _textComponent = GetComponent<Text>();
         _textComponent.text = "";
-        Dormiu = true;
-        EdgarUp = GetComponent<EdgarAction>();
+        EdgarUp = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -38,8 +37,11 @@ public class Dialogo : MonoBehaviour
             _isDialoguePlaying = true;
             StartCoroutine(StartDialogue());
         }
-        anim.SetBool("Dormindo", Dormiu);
-        EdgarAcorda();
+        //EdgarAcorda();
+        if(EleAcordou == true)
+        {
+            Texto.SetActive(false);
+        }
     }
 
     private IEnumerator StartDialogue()
@@ -53,7 +55,7 @@ public class Dialogo : MonoBehaviour
             currentDialogueIndex++;
         }
         EleAcordou = true;
-        Dormiu = false;
+        EdgarUp.gameObject.GetComponent<EdgarSleep>().Andando = true;
         _isDialoguePlaying = false;
     }
     private IEnumerator DisplayString(string stringToDisplay)
@@ -92,12 +94,5 @@ public class Dialogo : MonoBehaviour
             yield return 0;
         }
         _textComponent.text = "";
-    }
-    void EdgarAcorda()
-    {
-        if (EleAcordou == true)
-        {
-            Dormiu = false;
-        }
     }
 }

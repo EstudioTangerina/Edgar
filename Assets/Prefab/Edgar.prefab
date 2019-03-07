@@ -114,7 +114,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5c0b1f006264f24bbef6c46dab7f422, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PortaAnim: {fileID: 0}
+  Aviso: {fileID: 0}
+  white: {fileID: 0}
+  Panel: {fileID: 0}
+  Fadeanim: {fileID: 0}
   jumpSpeed: 7
+  LevelName: 
+  Index: 0
+  Dormindo: 0
+  Andando: 0
 --- !u!50 &176518992940092210
 Rigidbody2D:
   serializedVersion: 4

@@ -2,17 +2,30 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EdgarAction : MonoBehaviour
+public class ActionEdgar : MonoBehaviour
 {
     private Rigidbody2D rb;
+    private Animator anim;
+    //public Animator PortaAnim;
+    public GameObject Aviso;
+    //public Image white;
+    //public GameObject Panel;
+    //public Animator Fadeanim;
+
     private float speed;
     private float horizontalspeed;
-    private Animator anim;
+    public float jumpSpeed = 5.5f;
+    public string LevelName;
+
+    private int timeJump;
+    int Index;
+
+    bool Foi;
     bool andar;
     private bool isGrounded = true;
-    public float jumpSpeed = 5.5f;
-    private int timeJump;
     public bool Dormindo;
+    public bool Andando;
+    bool AvisoUtilizado;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,19 +33,28 @@ public class EdgarAction : MonoBehaviour
         anim = GetComponent<Animator>();
         speed = 4.5f;
         Dormindo = false;
+        Andando = false;
+        AvisoUtilizado = false;
+        Foi = false;
+        Index = 1;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (AvisoUtilizado == true)
+        {
+            Aviso.GetComponent<SpriteRenderer>().color = new Color(0, 0, 0, 0);
+        }
+
 
     }
     void FixedUpdate()
     {
         Walk();
-        Ataques();
         Jump();
-        Sleep();
+        Ataques();
+        LeIndex();
         if (isGrounded == false) anim.SetBool("Pulo", true);
         else anim.SetBool("Pulo", false);
         anim.SetFloat("Blend", rb.velocity.y);
@@ -41,7 +63,8 @@ public class EdgarAction : MonoBehaviour
     {
         anim.SetFloat("Speed", Mathf.Abs(Input.GetAxisRaw("Horizontal")));
 
-
+        anim.SetLayerWeight(2, 0);
+        anim.SetLayerWeight(1, 1);
         if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
         {
             transform.position += Vector3.right * speed * Time.deltaTime;
@@ -52,7 +75,6 @@ public class EdgarAction : MonoBehaviour
             transform.position += Vector3.left * speed * Time.deltaTime;
             transform.eulerAngles = new Vector2(0, 0);
         }
-
     }
     void Ataques()
     {
@@ -75,11 +97,14 @@ public class EdgarAction : MonoBehaviour
             isGrounded = false;
         }
     }
-    void Sleep()
+    void LeIndex()
     {
-        if(Dormindo == false)
+        if (Foi == true)
         {
-            anim.SetBool("Dormindo", true);
+            if (Index < 0)
+            {
+                Andando = true;
+            }
         }
     }
     void OnCollisionEnter2D(Collision2D col)
@@ -89,5 +114,12 @@ public class EdgarAction : MonoBehaviour
             timeJump = 0;
             isGrounded = true;
         }
+    }
+    private void OnTriggerStay2D(Collider2D coll)
+    {
+      
+    }
+    private void OnTriggerExit2D(Collider2D coll)
+    {
     }
 }
