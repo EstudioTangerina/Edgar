@@ -43,12 +43,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Mesa
+    uniqueID: 918744523
+    locked: 0
   - name: Porta
     uniqueID: 2024059441
     locked: 0
   - name: Tocha
     uniqueID: 3297472835
     locked: 0
-  - name: Player
+  - name: Cama
     uniqueID: 799661451
     locked: 0

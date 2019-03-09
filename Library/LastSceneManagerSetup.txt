@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Testes/Testes.unity
+- path: "Assets/Scenes/Hist\xF3ria/Pr\xF3logo.unity"
   isLoaded: 1
   isActive: 1
