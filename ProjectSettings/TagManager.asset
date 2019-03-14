@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Chao
   - Cama
+  - Soldier
+  - Speak
   layers:
   - Default
   - TransparentFX
@@ -54,4 +56,10 @@ TagManager:
     locked: 0
   - name: Cama
     uniqueID: 799661451
+    locked: 0
+  - name: Soldier
+    uniqueID: 383177361
+    locked: 0
+  - name: Cnavas
+    uniqueID: 2785836451
     locked: 0

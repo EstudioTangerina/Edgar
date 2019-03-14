@@ -1,16 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class ActionEdgar : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
-    //public Animator PortaAnim;
+    public Animator PortaAnim;
     public GameObject Aviso;
-    //public Image white;
-    //public GameObject Panel;
-    //public Animator Fadeanim;
+    public Image white;
+    public GameObject Panel;
+    public Animator Fadeanim;
 
     private float speed;
     private float horizontalspeed;
@@ -20,10 +22,10 @@ public class ActionEdgar : MonoBehaviour
     private int timeJump;
     int Index;
 
-    bool Foi;
+    public bool Foi;
     bool andar;
     private bool isGrounded = true;
-    public bool Dormindo;
+    public bool Dormiu;
     public bool Andando;
     bool AvisoUtilizado;
     // Start is called before the first frame update
@@ -32,49 +34,58 @@ public class ActionEdgar : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         speed = 4.5f;
-        Dormindo = false;
+        Dormiu = true;
         Andando = false;
         AvisoUtilizado = false;
-        Foi = false;
-        Index = 1;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (AvisoUtilizado == true)
+        if (Index == 0)
         {
-            Aviso.GetComponent<SpriteRenderer>().color = new Color(0, 0, 0, 0);
+            anim.SetBool("Dormindo", Dormiu);
+
+            if (Dormiu == true)
+            {
+                anim.SetLayerWeight(2, 1);
+                anim.SetLayerWeight(1, 0);
+            }
         }
-
-
+        if (Andando == true)
+        {
+            Dormiu = false;
+            Index = 1;
+            anim.SetLayerWeight(2, 0);
+            anim.SetLayerWeight(1, 1);
+        }   
     }
     void FixedUpdate()
-    {
-        Walk();
-        Jump();
+    {  
+        if(Andando == true)
+        {
+            Walk();
+            Jump();
+        }
         Ataques();
-        LeIndex();
         if (isGrounded == false) anim.SetBool("Pulo", true);
         else anim.SetBool("Pulo", false);
         anim.SetFloat("Blend", rb.velocity.y);
     }
     void Walk()
     {
-        anim.SetFloat("Speed", Mathf.Abs(Input.GetAxisRaw("Horizontal")));
+            anim.SetFloat("Speed", Mathf.Abs(Input.GetAxisRaw("Horizontal")));
 
-        anim.SetLayerWeight(2, 0);
-        anim.SetLayerWeight(1, 1);
-        if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
-        {
-            transform.position += Vector3.right * speed * Time.deltaTime;
-            transform.eulerAngles = new Vector2(0, 180);
-        }
-        if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
-        {
-            transform.position += Vector3.left * speed * Time.deltaTime;
-            transform.eulerAngles = new Vector2(0, 0);
-        }
+            if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
+            {
+                transform.position += Vector3.right * speed * Time.deltaTime;
+                transform.eulerAngles = new Vector2(0, 180);
+            }
+            if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
+            {
+                transform.position += Vector3.left * speed * Time.deltaTime;
+                transform.eulerAngles = new Vector2(0, 0);
+            }
     }
     void Ataques()
     {
@@ -97,29 +108,46 @@ public class ActionEdgar : MonoBehaviour
             isGrounded = false;
         }
     }
-    void LeIndex()
-    {
-        if (Foi == true)
-        {
-            if (Index < 0)
-            {
-                Andando = true;
-            }
-        }
-    }
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "Chao")
         {
+            Dormiu = false;
+            Andando = true;
             timeJump = 0;
             isGrounded = true;
         }
     }
     private void OnTriggerStay2D(Collider2D coll)
     {
-      
+        if(coll.gameObject.name == "Porta")
+        {
+            Aviso.GetComponent<SpriteRenderer>().color = new Color(255, 255, 255, 255);
+            if (Input.GetKeyDown(KeyCode.X))
+            {
+                PortaAnim.SetBool("Abre", true);
+                AvisoUtilizado = true;
+                Panel.SetActive(true);
+                //StartCoroutine(LoadScene());
+                Andando = true;
+            }
+        }
     }
+    /*public IEnumerator LoadScene()
+    {
+        Fadeanim.SetBool("Fade", true);
+        yield return new WaitUntil(() => white.color.a == 1);
+        SceneManager.LoadScene(LevelName);
+    }*/
+  
     private void OnTriggerExit2D(Collider2D coll)
     {
+        if (coll.gameObject.name == "Porta")
+        {
+            Aviso.GetComponent<SpriteRenderer>().color = new Color(0, 0, 0, 0);
+        }
     }
+    
+        
+        
 }

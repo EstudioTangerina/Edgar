@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 176518992940092222}
   - component: {fileID: 176518992940092223}
+  - component: {fileID: 5149884863346956926}
   - component: {fileID: 176518992940092216}
-  - component: {fileID: 176518992940092221}
   - component: {fileID: 176518992940092210}
   - component: {fileID: 176518992940092220}
   m_Layer: 0
@@ -83,6 +83,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &5149884863346956926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 176518992940092217}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5c0b1f006264f24bbef6c46dab7f422, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PortaAnim: {fileID: 0}
+  Aviso: {fileID: 0}
+  white: {fileID: 0}
+  Panel: {fileID: 0}
+  Fadeanim: {fileID: 0}
+  jumpSpeed: 5.5
+  LevelName: 
+  Index: 0
+  Foi: 0
+  Dormiu: 0
+  Andando: 0
 --- !u!95 &176518992940092216
 Animator:
   serializedVersion: 3
@@ -102,28 +125,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &176518992940092221
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 176518992940092217}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b5c0b1f006264f24bbef6c46dab7f422, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  PortaAnim: {fileID: 0}
-  Aviso: {fileID: 0}
-  white: {fileID: 0}
-  Panel: {fileID: 0}
-  Fadeanim: {fileID: 0}
-  jumpSpeed: 7
-  LevelName: 
-  Index: 0
-  Dormindo: 0
-  Andando: 0
 --- !u!50 &176518992940092210
 Rigidbody2D:
   serializedVersion: 4

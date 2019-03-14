@@ -14,19 +14,23 @@ public class Dialogo : MonoBehaviour
 
     public KeyCode DialogueInput = KeyCode.Mouse0;
 
-    private bool _isDialoguePlaying = false;
+    public bool _isDialoguePlaying = false;
 
     public bool EleAcordou = false;
+    public bool funciona = false;
 
-    public GameObject EdgarUp;
-    public GameObject Texto;
-    public Animator anim;
+    public GameObject Edgar;
+    public GameObject Panel;
+    public GameObject proximoPainel;
+
+    GameObject Soldier;
     // Use this for initialization
     void Start()
     {
         _textComponent = GetComponent<Text>();
         _textComponent.text = "";
-        EdgarUp = GameObject.FindGameObjectWithTag("Player");
+        Edgar = GameObject.FindGameObjectWithTag("Player");
+        Soldier = GameObject.FindGameObjectWithTag("Soldier");
     }
 
     // Update is called once per frame
@@ -37,11 +41,7 @@ public class Dialogo : MonoBehaviour
             _isDialoguePlaying = true;
             StartCoroutine(StartDialogue());
         }
-        //EdgarAcorda();
-        if(EleAcordou == true)
-        {
-            Texto.SetActive(false);
-        }
+
     }
 
     private IEnumerator StartDialogue()
@@ -54,8 +54,9 @@ public class Dialogo : MonoBehaviour
             yield return StartCoroutine(DisplayString(DialogueStrings[currentDialogueIndex]));
             currentDialogueIndex++;
         }
-        EleAcordou = true;
-        EdgarUp.gameObject.GetComponent<EdgarSleep>().Andando = true;
+        AbreOProximoPainel();
+        funciona = true;
+        Prologo();
         _isDialoguePlaying = false;
     }
     private IEnumerator DisplayString(string stringToDisplay)
@@ -94,5 +95,15 @@ public class Dialogo : MonoBehaviour
             yield return 0;
         }
         _textComponent.text = "";
+    }
+    void AbreOProximoPainel()
+    {
+        transform.parent.gameObject.SetActive(false);
+        proximoPainel.SetActive(true);
+    }
+    void Prologo()
+    {
+        EleAcordou = true;
+        Edgar.gameObject.GetComponent<ActionEdgar>().Andando = true;
     }
 }
