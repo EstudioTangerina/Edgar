@@ -6,13 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class Transiçao : MonoBehaviour
 {
-    public int Index;
+    public Image Panel;
+    public Image liones;
+    public bool coolingDown;
+    public float waitTime = 30.0f;
     public string LevelName;
-
-
-    public Image white;
-    public Animator anim;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -21,18 +19,45 @@ public class Transiçao : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Leao();
+        if (coolingDown == true)
+        {
+            //Reduce fill amount over 30 seconds
+            Panel.fillAmount += 10.0f / waitTime * Time.deltaTime;
+        }
 
-    }
-    public IEnumerator LoadScene()
-    {
-        anim.SetBool("Fade", true);
-        yield return new WaitUntil(() => white.color.a == 1);
+        if (Panel.fillAmount >= 1)
+        {
+            StartCoroutine(LoadScene());
+        }
     }
     private void OnTriggerStay2D(Collider2D coll)
     {
-        if (coll.CompareTag("Player"))
+        if (coll.gameObject.name == "Porta")
         {
-            StartCoroutine(LoadScene());
+           //Aviso.GetComponent<SpriteRenderer>().color = new Color(255, 255, 255, 255);
+            if (Input.GetKeyDown(KeyCode.X))
+            {
+                coolingDown = true;
+            }
+        }
+    }
+    public IEnumerator LoadScene()
+    {
+        yield return new WaitForSeconds(0.5f);
+        SceneManager.LoadScene(LevelName);
+    }
+    public IEnumerator Lion()
+    {
+        yield return new WaitForSeconds(0.5f);
+        liones.fillAmount -= 30.0f / waitTime * Time.deltaTime;
+
+    }
+    void Leao()
+    {
+        if (Panel.fillAmount == 0)
+        {
+            StartCoroutine(Lion());
         }
     }
 }

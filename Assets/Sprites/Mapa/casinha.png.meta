@@ -1,7 +1,12 @@
 fileFormatVersion: 2
 guid: 5f0ee6f1d874a164f9c9cb4a9bff790d
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: casinha_0
+    21300002: casinha_1
+    21300004: casinha_2
+    21300006: casinha_3
+    21300008: casinha_4
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -47,7 +52,7 @@ TextureImporter:
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -82,7 +87,107 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: casinha_0
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2068
+        width: 943
+        height: 776
+      alignment: 9
+      pivot: {x: 0.4990315, y: 0.05222816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17d980f67242384592fb9ab0e9ee029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casinha_1
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 2068
+        width: 943
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d21785e3f4d414c8a357b0f359acd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casinha_2
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1068
+        width: 1263
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073be371a728fdc44973fa6ff2a7c540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casinha_3
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1068
+        width: 1263
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfb19fe431750146b24aac448c529de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casinha_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 809
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3067ef7d1daad9b45825712e1cd85c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

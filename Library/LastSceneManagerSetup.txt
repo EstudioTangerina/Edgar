@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Scenes/Hist\xF3ria/Main Menu.unity"
+- path: "Assets/Scenes/Hist\xF3ria/Le\xE3o.unity"
   isLoaded: 1
   isActive: 1

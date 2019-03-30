@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/Hist\xF3ria/Main Menu.unity"
     guid: a6b1987ebb7b16f4199132ffeeb92e1a
+  - enabled: 1
+    path: "Assets/Scenes/Hist\xF3ria/Le\xE3o.unity"
+    guid: 3ef5df083a3889a4fbf227931ce20acc
   m_configObjects: {}

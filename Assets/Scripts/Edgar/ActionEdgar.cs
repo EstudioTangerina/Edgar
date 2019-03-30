@@ -10,14 +10,10 @@ public class ActionEdgar : MonoBehaviour
     private Animator anim;
     public Animator PortaAnim;
     public GameObject Aviso;
-    public Image white;
-    public GameObject Panel;
-    public Animator Fadeanim;
 
     private float speed;
     private float horizontalspeed;
     public float jumpSpeed = 5.5f;
-    public string LevelName;
 
     private int timeJump;
     int Index;
@@ -42,6 +38,7 @@ public class ActionEdgar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+       
         if (Index == 0)
         {
             anim.SetBool("Dormindo", Dormiu);
@@ -127,19 +124,11 @@ public class ActionEdgar : MonoBehaviour
             {
                 PortaAnim.SetBool("Abre", true);
                 AvisoUtilizado = true;
-                Panel.SetActive(true);
                 //StartCoroutine(LoadScene());
                 Andando = true;
             }
         }
-    }
-    /*public IEnumerator LoadScene()
-    {
-        Fadeanim.SetBool("Fade", true);
-        yield return new WaitUntil(() => white.color.a == 1);
-        SceneManager.LoadScene(LevelName);
-    }*/
-  
+    } 
     private void OnTriggerExit2D(Collider2D coll)
     {
         if (coll.gameObject.name == "Porta")
